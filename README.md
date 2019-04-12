@@ -1,2 +1,2 @@
 # TCC-NutriSystem
-Repositório criado pra o TCC
+Repositório criado para o TCC
